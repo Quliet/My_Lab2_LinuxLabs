@@ -1,0 +1,5 @@
+/home/user/Desktop/students/Parenko/Lab2/library/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/students/Parenko/Lab2/library/CMakeFiles/Lab2Final.dir
+/home/user/Desktop/students/Parenko/Lab2/library/CMakeFiles/StaticLib.dir
+/home/user/Desktop/students/Parenko/Lab2/library/CMakeFiles/edit_cache.dir
+/home/user/Desktop/students/Parenko/Lab2/library/CMakeFiles/libDyn.dir

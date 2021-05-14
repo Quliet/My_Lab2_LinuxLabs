@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,liblibDyn.so -o liblibDyn.so CMakeFiles/libDyn.dir/source/Myhelp.c.o 

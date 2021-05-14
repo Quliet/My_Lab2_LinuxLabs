@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Lab2Final.dir/Lab2.c.o  -o Lab2Final -Wl,-rpath,/home/user/Desktop/students/Parenko/Lab2/library libStaticLib.a liblibDyn.so 
