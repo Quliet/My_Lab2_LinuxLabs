@@ -5,3 +5,5 @@
 
 
 ![alt text](https://cdn.discordapp.com/attachments/825782329384763412/826558068828405780/nazuri1.mp4)
+
+file:///home/quliet/Ð—Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸/nazuri1.mp4
